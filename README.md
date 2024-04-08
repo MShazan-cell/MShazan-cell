@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MShazan-cell
+- 👀 I’m a fullstack web developer
+- 🌱 I’m currently learning MERN stack
+- 📫 How to reach me Email: shazan.mohammad@gmail.com
+- 😄 Pronouns: He/Him
